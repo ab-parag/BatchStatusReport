@@ -1,0 +1,18 @@
+Job Run Times for date: ,2019-01-01 00:00:00,,
+JobName,StartTime,EndTime,Duration
+Job1,19:00:00,19:07:59,0:07:59
+Job2,19:08:07,19:07:59,Job Failed
+Job3,19:22:11,19:27:08,0:04:57
+Job4,--:--:--,--:--:--,Not Yet Run
+Job5,20:00:07,--:--:--,In Progress
+Job6,19:46:02,19:52:08,0:06:06
+Job7,--:--:--,--:--:--,Not Yet Run
+Job Run Times for date: ,2019-01-01 00:00:00,,
+JobName,StartTime,EndTime,Duration
+Job1,19:00:00,19:07:59,0:07:59
+Job2,19:08:07,19:07:59,Job Failed
+Job3,19:22:11,19:27:08,0:04:57
+Job4,--:--:--,--:--:--,Not Yet Run
+Job5,20:00:07,--:--:--,In Progress
+Job6,19:46:02,19:52:08,0:06:06
+Job7,--:--:--,--:--:--,Not Yet Run

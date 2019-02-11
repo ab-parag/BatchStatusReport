@@ -1,0 +1,4 @@
+2019-01-01::19:22:11::Job Stated
+2019-01-01::19:22:05::Reading tokens,connecting tomcat
+2019-01-01::19:23:00::Initiating...
+2019-01-01::19:27:08::Job Completed successfully...!!

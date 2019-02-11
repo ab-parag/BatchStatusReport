@@ -1,0 +1,8 @@
+#job_name|BusinessUnit|Flag
+Job1|Asia|1
+Job2|MiddleEast|1
+Job3|MiddleEast|1
+Job4|Asia|0
+Job5|Asia|1
+Job6|Africa|1
+Job7|MiddleEast|0

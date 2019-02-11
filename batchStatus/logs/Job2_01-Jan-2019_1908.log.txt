@@ -1,0 +1,4 @@
+2019-01-01::19:08:07::Job Stated
+2019-01-01::19:08:08::Reading tokens,connecting tomcat
+2019-01-01::19:09:43::Initiating...
+2019-01-01::19:10:04::Job failed!! Internal exception.
