@@ -3,7 +3,7 @@ import datetime
 from datetime import datetime
 
 #go to app directory under which all the subdirectories are lying. e.g. bin,config,log,etc
-os.chdir('D:\\Programming\\Python\\batchStatus')
+os.chdir('https://github.com//ab-parag//BatchStatusReport//edit//Addins//batchStatus')
 
 #set batch date and other working directory paths. Here I've hard coded the batch date.
 #Same can be picked up dynamially in producion environment
